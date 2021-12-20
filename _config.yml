@@ -1,9 +1,9 @@
 # main text of home
-name: Shreya Chakraborty
-bio: Budding software engineer and wannabe minimalist
+name: I'm Shreya Chakraborty
+bio: A Full-stack data analyst, formerly a Software Engineer
 
 # twitter summary info
-description: A blog about life
+# description: A blog about life
 
 # if it's an external image, update below for true
 # better with square images
@@ -12,9 +12,9 @@ picture: assets/images/shrechak-logo.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-# resume: true
-# resume-external: true
-# resume-url: https://google.com/?q=my+resume
+resume: true
+resume-external: true
+resume-url: https://google.com/?q=my+resume
 
 url: https://shrechak.github.io
 # your url: http://USERNAME.github.io
@@ -34,24 +34,24 @@ url: https://shrechak.github.io
 #   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-# facebook: shrechak
-twitter: shrechak
-# google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
 linkedin: shrechak
+github: shrechak
+medium: shrechak
+twitter: shrechak
+instagram: shrechak
+facebook: shrechak
+email: c.shreya2204@gmail.com
+# google: mygoogle
+# pinterest: mypinterest
 # youtube: myyoutube
 # spotify: myspotify
-github: shrechak
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: shrechak
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: c.shreya2204@gmail.com
 
 authors:
     johndoe:
